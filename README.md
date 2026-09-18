@@ -73,3 +73,15 @@ Primarily solving in **C++**.
 ---
 
 ⭐ *If you're on a similar journey, feel free to follow along or drop a star.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/tishyaPatel1301/My-Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/tishyaPatel1301/My-Leetcode-Solutions/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
